@@ -22,8 +22,8 @@ import java.util.Random;
 
 import static java.lang.String.valueOf;
 import static java.util.Arrays.asList;
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Tests for {@link net.nicoulaj.maven.plugins.soot.SootMojo}.
