@@ -68,7 +68,7 @@
 
     <!-- Versions -->
     <java.level>1.6</java.level>
-    <maven.target-version>3.0.4</maven.target-version>
+    <maven.target-version>3.5.0</maven.target-version>
     <soot.version>2.5.0</soot.version>
 
     <!-- Build settings -->
